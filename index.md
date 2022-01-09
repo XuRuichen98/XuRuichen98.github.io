@@ -20,9 +20,5 @@ I am a postgraduate student of *Academy of Mathematics and Systems Science, Chin
 
 ### [Reading Seminars](https://xuruichen98.github.io/seminar/)
 
+### [Other Stuff](https://xuruichen98.github.io/others)
 
-### [Other Stuff](https://xuruichen98.github.io/others.html)
-
-
-
-Try to push.
