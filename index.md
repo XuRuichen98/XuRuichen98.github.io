@@ -1,4 +1,4 @@
-# XU RUICHEN
+# XU Ruichen
 
 I am a postgraduate student of *Academy of Mathematics and Systems Science, Chinese Acedemy of Sciences*.
 
