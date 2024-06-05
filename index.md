@@ -10,7 +10,7 @@ I am a postgraduate student of *the Academy of Mathematics and Systems Science, 
 
 
 
-***Research Interests***: Algebraic number theory, especially Iwasawa theory, with applications to the Birch-Swinnerton-Dyer conjecture and its generalizations. Automorphic forms and automorphic representations and their $p$-adic aspects.
+***Research Interests***: Algebraic number theory, especially Iwasawa theory, with applications to the Birch-Swinnerton-Dyer conjecture and its generalizations. Automorphic forms and automorphic representations and their p-adic aspects.
 
 
 
