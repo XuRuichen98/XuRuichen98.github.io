@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Ruichen Xu (徐睿晨)**  
-Ph.D. Student, Chinese Academy of Sciences  
+Ph.D. Student, Academy of Mathematics and Systems Science, Chinese Academy of Sciences  
 Citizenship: People's Republic of China  
 ✉️ [xuruichen21@mails.ucas.ac.cn](mailto:xuruichen21@mails.ucas.ac.cn)  
 Location: Beijing, China  
@@ -17,16 +17,13 @@ Location: Beijing, China
 
 ### Education
 
-- **Chinese Academy of Sciences**, Beijing, China  
-  *Ph.D. in Mathematics, Sept 2021 – Expected July 2026*  
-  - Advisor: Professor Xin Wan  
-  - Research Focus: Number theory, Iwasawa theory, automorphic forms, and $p$-adic properties  
+### Education
 
-- **Beihang University**, Beijing, China  
-  *B.Sc. in Mathematics, Sept 2017 – July 2021*  
-  - **Peking University Enhanced Program for Graduate Study**  
-    - *13th Program: Mar 2021 – July 2021*  
-    - *12th Program (Online): Mar 2020 – July 2020*  
+- **2023.9 – (Expected 2026.7)**: PhD Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
+- **2021.9 – 2023.7**: Master’s Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
+- **2017.9 – 2021.7**: Bachelor of Science, Beihang University. Mentored by Professors Peng GAO and Shijin ZHANG.  
+  - Participated in the "Enhanced Program for Graduate Study" organized by the Beijing International Center for Mathematical Research and Peking University during the Spring semesters of 2020 (online) and 2021.
+
 
 ### Scholarships
 
