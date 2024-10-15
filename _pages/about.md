@@ -11,6 +11,8 @@ redirect_from:
 
 I am Ruichen Xu, a PhD student in Pure Mathematics at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the guidance of Professor Xin Wan.
 
+**Contact**: xuruichen21[at]mails.ucas.ac.cn
+
 ### Education
 
 - **2023.9 – (Expected 2026.7)**: PhD Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
