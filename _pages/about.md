@@ -7,26 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my webpage!
-======
-I am Ruichen XU, a PhD student in Pure Mathematics at Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the guidence of Professor [Xin WAN](http://www.mcm.ac.cn/faculty/wx/201609/t20160919_348535.html).
+**Hi! Welcome to my webpage!**  
+I am Ruichen Xu, a PhD student in Pure Mathematics at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the guidance of Professor Xin Wan.
 
-Education Experiences
-======
-- 2023.9 - (2026.7 Expected). PhD Student, at Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor [Xin WAN](http://www.mcm.ac.cn/faculty/wx/201609/t20160919_348535.html).
-- 2021.9 - 2023.7. Master's Student, at Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor [Xin WAN](http://www.mcm.ac.cn/faculty/wx/201609/t20160919_348535.html).
-- 2017.9 - 2021.7. Bechelor Degree in Sciences, at Beihang University. Under the guidence of Professor Peng GAO and Shijin ZHANG.
+### Education
 
-I enrolled in the "Enhanced Program for Graduate Study" by Beijing International Centre for Mathematical Research and Peking University during 2020 Spring semester (online) and 2021 Spring semester.
+- **2023.9 – (Expected 2026.7)**: PhD Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin Wan.  
+- **2021.9 – 2023.7**: Master’s Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin Wan.  
+- **2017.9 – 2021.7**: Bachelor of Science, Beihang University. Mentored by Professors Peng Gao and Shijin Zhang.  
+  - Participated in the "Enhanced Program for Graduate Study" organized by the Beijing International Center for Mathematical Research and Peking University during the Spring semesters of 2020 (online) and 2021.  
 
-Research Areas
-=====
-I am interested in *Iwasawa theory*, a branch of number theory. I am currently interested in the following aspects.
+### Research Interests
 
-- Automorphic methods in Iwasawa theory.
-- Iwasawa theory in families.
-- Arithmetic applications of Iwasawa theory. For example the arithmetic of elliptic curves around the Birch-Swinnerton-Dyer conjecture, and its generalizations to Galois representions such as the Bloch-Kato conjecture.
+I am interested in *Iwasawa theory*, a branch of number theory, and my current research focuses on the following topics:
 
-Articles
-=====
-Unfortunately none yet.
+- Automorphic methods in Iwasawa theory  
+- Iwasawa theory in families  
+- Arithmetic applications of Iwasawa theory, such as the arithmetic of elliptic curves in relation to the Birch and Swinnerton-Dyer conjecture, and its extensions to Galois representations, including the Bloch-Kato conjecture  
+
+### Publications
+
+Unfortunately, there are no published articles yet.
