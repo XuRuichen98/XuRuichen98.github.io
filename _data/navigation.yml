@@ -6,7 +6,7 @@
 
 main:
   - title: "Articles"
-    url: /publications/
+    url: /articles/
 
   - title: "Talks"
     url: /talks/    
@@ -17,11 +17,11 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Other Writings"
+    url: /writings/
     
-#  - title: "CV"
-#    url: /cv/
+  - title: "CV"
+    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
