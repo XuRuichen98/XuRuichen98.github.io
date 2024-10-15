@@ -13,9 +13,9 @@ I am Ruichen Xu, a PhD student in Pure Mathematics at the Academy of Mathematics
 
 ### Education
 
-- **2023.9 – (Expected 2026.7)**: PhD Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin Wan.  
-- **2021.9 – 2023.7**: Master’s Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin Wan.  
-- **2017.9 – 2021.7**: Bachelor of Science, Beihang University. Mentored by Professors Peng Gao and Shijin Zhang.  
+- **2023.9 – (Expected 2026.7)**: PhD Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
+- **2021.9 – 2023.7**: Master’s Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
+- **2017.9 – 2021.7**: Bachelor of Science, Beihang University. Mentored by Professors Peng GAO and Shijin ZHANG.  
   - Participated in the "Enhanced Program for Graduate Study" organized by the Beijing International Center for Mathematical Research and Peking University during the Spring semesters of 2020 (online) and 2021.  
 
 ### Research Interests
