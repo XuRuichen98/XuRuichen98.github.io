@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! Welcome to my webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Hi! Welcome to my webpage!**  
+### 欢迎来到我的主页！
+
 I am Ruichen Xu, a PhD student in Pure Mathematics at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the guidance of Professor Xin Wan.
 
 ### Education
