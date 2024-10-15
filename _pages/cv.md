@@ -39,9 +39,8 @@ Ph.D. Student, Academy of Mathematics and Systems Science, Chinese Academy of Sc
 
 - **BSD and Goldfeld Conjectures Conference**, Kunming, China  
   *Tianyuan Mathematics Research Center, Oct 2024*  
-- **Development of Iwasawa Theory**, Yokohama, Japan  
-  *Keio University, July 2024*  
-  - Honoring the 60th birthday of Masato Kurihara  
+- **Development of Iwasawa Theory, Honoring the 60th birthday of Masato Kurihara**, Yokohama, Japan  
+  *Keio University, July 2024*    
 - **Jinling Conference on Number Theory**, Nanjing, China  
   *Nanjing University, April 2024*  
 - **Special Values of $L$-functions**, Sanya, China  
