@@ -9,13 +9,11 @@ redirect_from:
 
 **Ruichen Xu (徐睿晨)**  
 Ph.D. Student, Academy of Mathematics and Systems Science, Chinese Academy of Sciences  
-Citizenship: People's Republic of China  
+*Citizenship*: People's Republic of China  
 ✉️ [xuruichen21@mails.ucas.ac.cn](mailto:xuruichen21@mails.ucas.ac.cn)  
-Location: Beijing, China  
+*Location*: Beijing, China  
 
 ---
-
-### Education
 
 ### Education
 
