@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Ruichen Xu (徐睿晨)**  
-Ph.D. Candidate, Chinese Academy of Sciences  
+Ph.D. Student, Chinese Academy of Sciences  
 Citizenship: People's Republic of China  
 ✉️ [xuruichen21@mails.ucas.ac.cn](mailto:xuruichen21@mails.ucas.ac.cn)  
 Location: Beijing, China  
