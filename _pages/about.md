@@ -11,8 +11,7 @@ redirect_from:
 
 I am Ruichen XU, a PhD student in Pure Mathematics at the *Academy of Mathematics and Systems Science, Chinese Academy of Sciences*, under the guidance of Professor Xin WAN.
 
-I am visiting the *Laboratoire de Mathématiques de Besançon (LmB), the Université de Franche-Comté* in Besançon, France, from December 2024 to July 2025 (expected), with Professor Olivier FOUQUET as the hosting advisor.
-
+I am visiting the *Laboratoire de Mathématiques de Besançon (LmB), l'Université de Franche-Comté* in Besançon, France, from December 2024 to July 2025 (expected), with Professor Olivier Fouquet being my host advisor during the visit.
 
 **Contact**: xuruichen21[at]mails.ucas.ac.cn
 
