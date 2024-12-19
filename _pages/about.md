@@ -9,7 +9,10 @@ redirect_from:
 
 ### 欢迎来到我的主页！
 
-I am Ruichen XU, a PhD student in Pure Mathematics at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the guidance of Professor Xin WAN.
+I am Ruichen XU, a PhD student in Pure Mathematics at the *Academy of Mathematics and Systems Science, Chinese Academy of Sciences*, under the guidance of Professor Xin WAN.
+
+I am visiting the *Laboratoire de Mathématiques de Besançon (LmB), the Université de Franche-Comté* in Besançon, France, from December 2024 to July 2025 (expected), with Professor Olivier FOUQUET as the hosting advisor.
+
 
 **Contact**: xuruichen21[at]mails.ucas.ac.cn
 
@@ -31,3 +34,6 @@ I am interested in *Iwasawa theory*, a branch of number theory, and my current r
 ### Publications
 
 - **The Gan-Gross-Prasad period of Klingen Eisenstein families over unitary groups**, preprint (2024). [arXiv: 2410.13132](https://arxiv.org/abs/2410.13132).
+
+
+Update: December 19, 2024.
