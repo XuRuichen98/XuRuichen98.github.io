@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Study Workshop – Eisenstein congruences in Iwasawa theory"
+permalink: /talks/2025spring/
+---
+
+
 # Study Workshop – Eisenstein Congruences in Iwasawa Theory
 
 In this study workshop, we explore automorphic methods in Iwasawa theory, with a particular focus on Eisenstein congruences. These techniques play a crucial role in constructing Galois cohomology classes in Selmer groups, thereby establishing lower bounds for Selmer groups in the context of Iwasawa main conjectures.
