@@ -155,6 +155,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _talks
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
