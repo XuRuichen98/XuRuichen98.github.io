@@ -12,13 +12,12 @@ In this study workshop, we explore automorphic methods in Iwasawa theory, with a
 ## Syllabus
 
 - **30/01/2025** – *Talk 1: Motivations and Setups*
-- **11/02/2025** – *Talk 1+: Motivations and Setups, Unitary Groups*  
-  [Handwritten notes](xxx), [Handwritten notes on Shimura varieties of unitary groups](xxx)  
+- **13/02/2025** – *Talk 1+: Motivations and Setups, Unitary Groups*. [Handwritten notes](../files/2025springtalk/Talk 01 - Motivations and Setups.pdf).  
 
 _To be continued._
 
 ---
 
-_Last updated: 11/02/2025_  
+_Last updated: 14/02/2025_  
 
 Feedback and suggestions are welcome!
