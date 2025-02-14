@@ -7,88 +7,100 @@ redirect_from:
   - /resume
 ---
 
-**Ruichen Xu (徐睿晨)**  
-Ph.D. Student, Academy of Mathematics and Systems Science, Chinese Academy of Sciences  
-*Citizenship*: People's Republic of China  
-✉️ [xuruichen21@mails.ucas.ac.cn](mailto:xuruichen21@mails.ucas.ac.cn)  
-*Location*: Beijing, China  
+# Ruichen XU (徐睿晨)
+**Ph.D Student, Chinese Academy of Sciences**  
+📧 [xuruichen21@mails.ucas.ac.cn](mailto:xuruichen21@mails.ucas.ac.cn)  
+🌐 [https://xuruichen98.github.io/](https://xuruichen98.github.io/)  
+📍 Besançon, France  
 
 ---
 
-### Education
+## Education
+- **Chinese Academy of Sciences**  
+  *Ph.D student in mathematics*  
+  Sept 2021 - *July 2026 (Expected)*  
+  - Doctoral Advisor: Xin WAN
+  - Research Interests: Number theory, especially Iwasawa theory.
 
-- **2023.9 – (Expected 2026.7)**: PhD Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
-- **2021.9 – 2023.7**: Master’s Student in Pure Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Supervisor: Professor Xin WAN.  
-- **2017.9 – 2021.7**: Bachelor of Science, Beihang University. Mentored by Professors Peng GAO and Shijin ZHANG.  
-  - Participated in the "Enhanced Program for Graduate Study" organized by the Beijing International Center for Mathematical Research and Peking University during the Spring semesters of 2020 (online) and 2021.
+- **Beihang University**  
+  *Bachelor of Science in mathematics*  
+  Sept 2017 - July 2021  
+  - Undergraduate Advisor: Peng GAO and Shijin ZHANG (thesis advisor)
+  - Undergraduate Thesis: *The Proof of Fermat's Last Theorem: Wiles' Proof and Beyond*
 
+## Publications and Preprints
+- Ruichen Xu. *The Gan-Gross-Prasad period of Klingen Eisenstein families over unitary groups*, preprint (2024). arXiv: [2410.13132](https://arxiv.org/abs/2410.13132).
 
-### Scholarships
+## Visiting Experiences
+- **L'Université de Franche-Comté**  
+  Dec 2024 - *July 2025 (Expected)*  
+  - Host Advisor: Olivier FOUQUET
+  - Host Institute: Laboratoire de Mathématiques de Besançon (LmB)
+  - Supported by the program *2024 International Research Collaboration Program for Postgraduate Students* of Chinese Academy of Sciences, together with LmB.
 
-- **Hua Loo-Keng Special Scholarship**, Chinese Academy of Sciences  
-  - *2022, 2023*: Recognized for excellence in qualifying exams and research  
-  - *2019, 2020, 2021*: Awarded for outstanding performance in final exams  
+- **Peking University**  
+  *The 13th Enhanced Program for Graduate Study*  
+  Mar 2021 - July 2021
 
-### Teaching Experience
+- **Peking University**  
+  *The 12th Enhanced Program for Graduate Study (Online)*  
+  Mar 2020 - July 2020
 
-- **Teaching Assistant**, Beihang University  
-  - *Complex Analysis*, Spring 2020  
-  - *Advanced Abstract Algebra*, Fall 2020  
+## Scholarships
+- **Professor Hua Loo-Keng Scholarship**, Chinese Academy of Sciences, 2022, 2023  
+  for excellence in PhD qualifying exams and research.
+- **Professor Hua Loo-Keng Scholarship**, Chinese Academy of Sciences, 2019, 2020, 2021  
+  for excellence in undergraduate mathematical coursework and contests.
 
-### Conferences
+## Teaching Experiences
+- **Advanced Abstract Algebra**, Teaching Assistant, Fall 2020  
+  Taught by Shaoshi CHEN (Chinese Academy of Sciences) at Beihang University.
+- **Complex Analysis**, Teaching Assistant (Online), Spring 2020  
+  Taught by Shengjian WU (Peking University) at Beihang University.
 
-- **BSD and Goldfeld Conjectures Conference**, Kunming, China  
-  *Tianyuan Mathematics Research Center, Oct 2024*  
-- **Development of Iwasawa Theory, Honoring the 60th birthday of Masato Kurihara**, Yokohama, Japan  
-  *Keio University, July 2024*    
-- **Jinling Conference on Number Theory**, Nanjing, China  
-  *Nanjing University, April 2024*  
-- **Special Values of $L$-functions**, Sanya, China  
-  *Tsinghua Sanya International Mathematics Forum, Jan 2024*  
-- **Cross-Strait Workshop on Arithmetic Geometry**, Hefei, China  
-  *University of Science and Technology of China, Aug 2023*  
-- **Workshop on Arithmetic and Topology**, Shenzhen, China  
-  *Southern University of Science and Technology, Aug 2023*  
-- **Iwasawa 2023: In Memory of John Coates**, Cambridge, UK  
-  *University of Cambridge, July 2023*  
-- **Satellite Conference on Number Theory (ICBS)**, Beijing, China  
-  *Morningside Center of Mathematics, July 2023*  
-- **Jinling Conference on Number Theory**, Nanjing, China  
-  *Nanjing University, June 2023*  
+## Conferences Attended
+- **Young researchers in Galois Representations and related topics**, Genova, Italy, Jan 2025  
+  At *the Università di Genova*.
+- **Workshop on $p$-adic Geometry**, Singapore, Nov 2024  
+  At *the National University of Singapore*.
+- **BSD Conjecture and Goldfeld Conjecture**, Kunming, Yunnan, China, Oct 2024  
+  At *Tianyuan Mathematics Research Center*.
+- **Development of Iwasawa Theory**, Yokohama, Kanagawa, Japan, Jul 2024  
+  A conference in honor of the 60th birthday of Masato Kurihara. At *Keio University*.
+- **2024 Jinling Conference of Number Theory**, Nanjing, Jiangsu, China, Apr 2024  
+  At *Nanjing University*.
+- **Special Values of $L$-functions**, Sanya, Hainan, China, Jan 2024  
+  At *Tsinghua Sanya International Mathematics Forum*.
+- **The 3rd Cross Strait Workshop on Arithmetic Geometry**, Hefei, Anhui, China, Aug 2023  
+  At *the University of Science and Technology of China*.
+- **Workshop on Arithmetic and Topology**, Shenzhen, Guangdong, China, Aug 2023  
+  At *the Southern University of Science and Technology*.
+- **Iwasawa 2023: in memory of John Coates**, Cambridge, the United Kingdom, July 2023  
+  At *the University of Cambridge*.
+- **Satellite Conference in Number Theory of ICBS**, Beijing, China, July 2023  
+  At *Morningside Center of Mathematics, Chinese Academy of Sciences*.
+- **2023 Jinling Conference of Number Theory**, Nanjing, Jiangsu, China, June 2023  
+  At *Nanjing University*.
 
-### Summer Schools
+## Summer Schools Attended
+- **Summer school on Galois representations and Reciprocity**, Hanoi, Vietnam, July 2024  
+  At *Vietnam Institute for Advanced Study in Mathematics*.
+- **2021 Summer School on Number Theory**, Xi'an, Shaanxi, China, July 2021  
+  At *Xi'an Jiaotong University*.
+- **Theta Correspondence and Its Arithmetic Applications**, Suzhou, Jiangsu, China, July 2021  
+  At *Soochow University*.
+- **Short Courses on Number Theory**, Xiamen, Fujian, China (Online), July 2020  
+  At *Xiamen University*.
+- **2020 SCMS Algebraic Geometry Summer School**, Shanghai, China (Online), July 2020  
+  At *Shanghai Center of Mathematical Sciences, Fudan University*.
+- **"The Road to Mathematics" Int'l Summer School**, Harbin, Heilongjiang, China, July 2019  
+  At *Harbin Institute of Technology*.
 
-- **Galois Representations and Reciprocity**, Hanoi, Vietnam  
-  *Vietnam Institute for Advanced Study in Mathematics, July 2024*  
-- **Summer School on Number Theory**, Xi'an, China  
-  *Xi'an Jiaotong University, July 2021*  
-- **Theta Correspondence and Arithmetic Applications**, Suzhou, China  
-  *Soochow University, July 2021*  
-- **Short Courses in Number Theory**, Xiamen, China (Online)  
-  *Xiamen University, July 2020*  
-- **Algebraic Geometry Summer School (SCMS)**, Shanghai, China (Online)  
-  *Shanghai Center of Mathematical Sciences, July 2020*  
-- **"The Road to Mathematics" International Summer School**, Harbin, China  
-  *Harbin Institute of Technology, July 2019*  
-
-### Seminars and Workshops
-
-- **Learning Seminars** (Organizer and Speaker)  
-  - *Automorphic Methods in Iwasawa Theory*, Feb 2024 – Present  
-    - Explored automorphic techniques in Iwasawa theory  
-  - *The Arithmetic of Elliptic Curves*, May 2023 – Jan 2024  
-    - Discussed fundamental aspects of elliptic curves  
-  - *Exercises from "Introduction to Iwasawa Theory of Elliptic Curves"*, Dec 2023  
-    - Solved selected problems from R. Greenberg’s notes  
-  - *Automorphic Representations*, Mar 2022 – Oct 2023  
-    - Covered foundational theories of automorphic representations  
-
-### Languages
-
-- **Chinese**: Native  
-- **English**: Intermediate Proficiency  
-- **French**: Beginner  
+## Languages
+- **Chinese**: Native
+- **English**: Proficient
+- **French**: Beginner
 
 ---
 
-_Last Updated: October 15, 2024_
+_Last Updated: 14/02/2025_
