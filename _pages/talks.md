@@ -5,4 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-Unfortunately, there are no talks yet.
+# Talks
+
+## Seminar Talks
+- [Study Workshop – Eisenstein Congruences in Iwasawa Theory](study-workshop.md)
+
+## Conference Talks
+- Not yet.
