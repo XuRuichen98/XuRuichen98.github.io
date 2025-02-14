@@ -8,7 +8,7 @@ author_profile: true
 # Talks
 
 ## Seminar Talks
-- [Study Workshop – Eisenstein Congruences in Iwasawa Theory](study-workshop.md)
+- 2025 Spring Semester: [Study Workshop – Eisenstein Congruences in Iwasawa Theory](talks/2025spring.md)
 
 ## Conference Talks
 - Not yet.
