@@ -13,7 +13,7 @@ redirect_from:
 🌐 [https://xuruichen98.github.io/](https://xuruichen98.github.io/)  
 📍 Besançon, France
 
-[Downloadable CV](files/CV20250214.pdf)
+[Downloadable CV](/files/CV20250214.pdf)
 
 ---
 
