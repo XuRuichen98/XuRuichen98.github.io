@@ -32,7 +32,8 @@ I am interested in *Iwasawa theory*, a branch of number theory, and my current r
 
 ### Publications
 
+- **On the Mordell-Weil rank of certain CM abelian varieties over anticyclotomic towers**, with *Haidong LI*, preprint (2025). [arXiv:2502.12648](https://arxiv.org/abs/2502.12648).
 - **The Gan-Gross-Prasad period of Klingen Eisenstein families over unitary groups**, preprint (2024). [arXiv: 2410.13132](https://arxiv.org/abs/2410.13132).
 
 
-Update: December 19, 2024.
+Update: Feburary 19, 2024.
