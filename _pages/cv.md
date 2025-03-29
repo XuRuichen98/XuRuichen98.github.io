@@ -65,6 +65,8 @@ redirect_from:
   Taught by Shengjian WU (Peking University) at Beihang University.
 
 ## Conferences Attended
+- **Géométrie algébrique et théorie des nombres en Bourgogne Franche-Comté**, Dijon, Bourgogne-Franche-Comté, France, Mar 2025  
+  At *L'Institut de Mathématiques de Bourgogne, l'Université de Bourgogne*.
 - **Young researchers in Galois Representations and related topics**, Genova, Italy, Jan 2025  
   At *the Università di Genova*.
 - **Workshop on $p$-adic Geometry**, Singapore, Nov 2024  
