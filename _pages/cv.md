@@ -31,7 +31,11 @@ redirect_from:
   - Undergraduate Thesis: *The Proof of Fermat's Last Theorem: Wiles' Proof and Beyond*
 
 ## Publications and Preprints
-- Ruichen Xu. *The Gan-Gross-Prasad period of Klingen Eisenstein families over unitary groups*, preprint (2024). arXiv: [2410.13132](https://arxiv.org/abs/2410.13132).
+- *On the Mordell-Weil rank of certain CM abelian varieties over anticyclotomic towers*, with *Haidong LI*, preprint (2025). arXiv: [2502.12648](https://arxiv.org/abs/2502.12648).
+- *The Gan-Gross-Prasad period of Klingen Eisenstein families over unitary groups*, preprint (2024). arXiv: [2410.13132](https://arxiv.org/abs/2410.13132).
+
+## Conference Talks
+- *The method of Eisenstein congruences in Iwasawa theory*. At the conference "Géométrie algébrique et théorie des nombres en Bourgogne Franche-Comté", Institut de Mathématiques de Bourgogne. March 28, 2025.
 
 ## Visiting Experiences
 - **L'Université de Franche-Comté**  
