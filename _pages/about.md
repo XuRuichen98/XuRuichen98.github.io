@@ -11,8 +11,6 @@ redirect_from:
 
 I am Ruichen XU, a PhD student in Pure Mathematics at the *Academy of Mathematics and Systems Science, Chinese Academy of Sciences*, under the guidance of Professor Xin WAN.
 
-I am visiting the *Laboratoire de Mathématiques de Besançon (LmB), l'Université de Franche-Comté* in Besançon, France, from December 2024 to July 2025 (expected), with Professor Olivier Fouquet being my host advisor during the visit.
-
 **Contact**: xuruichen21[at]mails.ucas.ac.cn
 
 ### Education
@@ -30,10 +28,10 @@ I am interested in *Iwasawa theory*, a branch of number theory, and my current r
 - Iwasawa theory in families  
 - Arithmetic applications of Iwasawa theory, such as the arithmetic of elliptic curves in relation to the Birch and Swinnerton-Dyer conjecture, and its extensions to Galois representations, including the Bloch-Kato conjecture  
 
-### Publications
+### Publications and Pre-publications
 
 - **On the Mordell-Weil rank of certain CM abelian varieties over anticyclotomic towers**, with *Haidong LI*, preprint (2025). [arXiv:2502.12648](https://arxiv.org/abs/2502.12648).
 - **The Gan-Gross-Prasad period of Klingen Eisenstein families over unitary groups**, preprint (2024). [arXiv: 2410.13132](https://arxiv.org/abs/2410.13132).
 
 
-Update: Feburary 19, 2024.
+Update: July 2, 2025.
