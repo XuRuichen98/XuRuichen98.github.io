@@ -13,7 +13,7 @@ redirect_from:
 🌐 [https://xuruichen98.github.io/](https://xuruichen98.github.io/)  
 📍 Beijing, China
 
-[Downloadable CV](/files/CV20250702.pdf) Version: July 2, 2025
+[Downloadable CV](/files/CV20250702.pdf). Version: July 2, 2025
 
 ---
 An older version:
