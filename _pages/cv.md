@@ -11,9 +11,9 @@ redirect_from:
 **Ph.D Student, Chinese Academy of Sciences**  
 📧 [xuruichen21@mails.ucas.ac.cn](mailto:xuruichen21@mails.ucas.ac.cn)  
 🌐 [https://xuruichen98.github.io/](https://xuruichen98.github.io/)  
-📍 Besançon, France
+📍 Beijing, China
 
-[Downloadable CV](/files/CV20250214.pdf)
+[Downloadable CV](/files/CV20250702.pdf)
 
 ---
 
