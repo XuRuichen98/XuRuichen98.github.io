@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### ### Hi! Welcome to my webpage!
+### Hi! Welcome to my webpage!
 
 ### 欢迎来到我的主页！
 
